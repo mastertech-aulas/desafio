@@ -12,11 +12,11 @@ O Mastertech convoca você a consertar esta falha. Precisamos recuperar a lista 
 
 **Atividades:**
 
-- Criar uma página de séries baseadas no seguinte [layout](layout.jpg)
+- Criar uma página de séries baseadas no seguinte [layout](layout.png)
 
 - A fidelidade ao layout é importante
 
-- Os arquivos para o desenvolvimento se encontram nessa [pasta](pasta)
+- Os arquivos para o desenvolvimento se encontram nessa [pasta](arquivos)
 
 - A página deve ser responsiva
 
