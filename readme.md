@@ -1,14 +1,14 @@
 # Desafio
 
-Você quer testar seu conhecimento e ainda ajudar a maior empresa de streaming do mundo? Temos uma missão para você!
+Você quer testar os conhecimentos que você aprendeu este ano e ainda ajudar a maior empresa de streaming do mundo? Temos uma missão para você!
 
 ## O Problema
 
-Houve um problema na equipe técnica, e alguém fez um commit errado e apagou toda a lista de novas séries do Netflix junto com CSS. Vários clientes ficaram bravos pois perderam os nomes das séries que iriam fazer maratona no fds.
+Todo mês é liberado um lote de novas séries e filmes para lançar na plataforma, e toda semana existe uma liberação de parte deste conteúdo para a galera realizar maratonas no fds. Porém, houve um problema na equipe técnica, e alguém fez um commit errado e apagou toda a lista de novas séries do Netflix junto com CSS. Imagina que vários clientes ficaram bravos pois perderam os nomes das séries que iriam fazer maratona no fds. #help
 
 ## A sua missão
 
-O Mastertech convoca você a consertar esta falha. Precisamos recuperar a lista das séries atuais e mostrar elas na página principal. 
+O Mastertech convoca você a consertar esta falha e salvar o mundo das séries. Precisamos recuperar a lista das séries atuais, e mostrar elas na página principal. 
 
 **Atividades:**
 
@@ -24,7 +24,7 @@ O Mastertech convoca você a consertar esta falha. Precisamos recuperar a lista 
 
 ### Desafio extra:
 
-Fazer paginação dos resultados da API, de forma os filmes sejam carregados em grupos de 6.
+Fazer paginação dos resultados da API, de forma que os filmes sejam carregados em grupos de 6.
 
 - A API entrega resultados paginados através do endereço https://desafio.mastertech.com.br/pagina/1, de forma que o número no final da URL representa a página que será exibida.
 
