@@ -12,7 +12,7 @@ O Mastertech convoca você a consertar esta falha e salvar o mundo das séries. 
 
 **Atividades:**
 
-- Criar uma página de séries baseadas no seguinte [layout](layout.png)
+- Criar uma página de séries baseadas no seguinte [layout](arquivos/layout.png)
 
 - A fidelidade ao layout é importante
 
@@ -20,13 +20,13 @@ O Mastertech convoca você a consertar esta falha e salvar o mundo das séries. 
 
 - A página deve ser responsiva
 
-- Os dados das séries serão consutadas da API disponível em https://desafio.mastertech.com.br
+- Os dados das séries serão consutadas da API disponível em https://desafio-mastertech.herokuapp.com
 
 ### Desafio extra:
 
 Fazer paginação dos resultados da API, de forma que os filmes sejam carregados em grupos de 6.
 
-- A API entrega resultados paginados através do endereço https://desafio.mastertech.com.br/pagina/1, de forma que o número no final da URL representa a página que será exibida.
+- A API entrega resultados paginados através do endereço https://desafio-mastertech.herokuapp.com/1, de forma que o número no final da URL representa a página que será exibida.
 
 ## Requisitos
 - Trabalho será feito em duplas ou trios
